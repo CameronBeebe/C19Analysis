@@ -6,3 +6,5 @@ TO DO:
 2. Generalize to just input <COUNTRY,STATE,COUNTY> and output plot.
 
 3. Automatically look for `anomalies'---i.e. locations where data indicates a high growth rate or an increase in positive tests wrt total tests.
+
+4. Copy data to repo?
