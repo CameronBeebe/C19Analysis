@@ -8,3 +8,5 @@ TO DO:
 3. Automatically look for `anomalies'---i.e. locations where data indicates a high growth rate or an increase in positive tests wrt total tests.
 
 4. Copy data to repo?
+
+5. Enable county/state/country input as lists to compare/graph.
